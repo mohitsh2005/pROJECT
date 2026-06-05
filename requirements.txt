@@ -1,7 +1,7 @@
-pip
-plotly
 joblib
-sklearn
+scikit-learn
+numpy
+pandas
 
 
 
