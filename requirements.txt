@@ -1,3 +1,5 @@
+requests
+plotly
 joblib
 scikit-learn
 numpy
